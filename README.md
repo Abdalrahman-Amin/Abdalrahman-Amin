@@ -64,7 +64,7 @@ I'm committed to staying at the forefront of frontend development. Currently exp
 
 I'm always interested in discussing innovative projects, emerging technologies, and collaboration opportunities in frontend development and Smart TV applications.
 
-**📧 Email:** [abdulrahman.amin@oceanbluesoftware.co.uk](mailto:abdulrahman.amin@oceanbluesoftware.co.uk)  
+**📧 Email:** [abdulrahman.amin@oceanbluesoftware.co.uk](mailto:abdelrhmanmohamed421@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/engabdalrahamanmuhammad](https://linkedin.com/in/engabdalrahamanmuhammad)  
 **💻 GitHub:** [github.com/Abdalrahman-Amin](https://github.com/Abdalrahman-Amin)
 
