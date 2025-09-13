@@ -135,18 +135,6 @@ graph TD
 
 </div>
 
----
-
-## 🎬 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdalrahman-Amin&repo=REPO_NAME&theme=tokyonight)](https://github.com/Abdalrahman-Amin/REPO_NAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdalrahman-Amin&repo=REPO_NAME&theme=tokyonight)](https://github.com/Abdalrahman-Amin/REPO_NAME)
-
-</div>
-
----
 
 ## 💭 Philosophy
 
